@@ -1,0 +1,15 @@
+C:\Users\nekam\OneDrive\Escritorio\c#\BibliotecaDePeliculas\bin\Debug\net6.0\BibliotecaDePeliculas.exe
+C:\Users\nekam\OneDrive\Escritorio\c#\BibliotecaDePeliculas\bin\Debug\net6.0\BibliotecaDePeliculas.deps.json
+C:\Users\nekam\OneDrive\Escritorio\c#\BibliotecaDePeliculas\bin\Debug\net6.0\BibliotecaDePeliculas.runtimeconfig.json
+C:\Users\nekam\OneDrive\Escritorio\c#\BibliotecaDePeliculas\bin\Debug\net6.0\BibliotecaDePeliculas.dll
+C:\Users\nekam\OneDrive\Escritorio\c#\BibliotecaDePeliculas\bin\Debug\net6.0\BibliotecaDePeliculas.pdb
+C:\Users\nekam\OneDrive\Escritorio\c#\BibliotecaDePeliculas\obj\Debug\net6.0\BibliotecaDePeliculas.csproj.AssemblyReference.cache
+C:\Users\nekam\OneDrive\Escritorio\c#\BibliotecaDePeliculas\obj\Debug\net6.0\BibliotecaDePeliculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nekam\OneDrive\Escritorio\c#\BibliotecaDePeliculas\obj\Debug\net6.0\BibliotecaDePeliculas.AssemblyInfoInputs.cache
+C:\Users\nekam\OneDrive\Escritorio\c#\BibliotecaDePeliculas\obj\Debug\net6.0\BibliotecaDePeliculas.AssemblyInfo.cs
+C:\Users\nekam\OneDrive\Escritorio\c#\BibliotecaDePeliculas\obj\Debug\net6.0\BibliotecaDePeliculas.csproj.CoreCompileInputs.cache
+C:\Users\nekam\OneDrive\Escritorio\c#\BibliotecaDePeliculas\obj\Debug\net6.0\BibliotecaDePeliculas.dll
+C:\Users\nekam\OneDrive\Escritorio\c#\BibliotecaDePeliculas\obj\Debug\net6.0\refint\BibliotecaDePeliculas.dll
+C:\Users\nekam\OneDrive\Escritorio\c#\BibliotecaDePeliculas\obj\Debug\net6.0\BibliotecaDePeliculas.pdb
+C:\Users\nekam\OneDrive\Escritorio\c#\BibliotecaDePeliculas\obj\Debug\net6.0\BibliotecaDePeliculas.genruntimeconfig.cache
+C:\Users\nekam\OneDrive\Escritorio\c#\BibliotecaDePeliculas\obj\Debug\net6.0\ref\BibliotecaDePeliculas.dll
